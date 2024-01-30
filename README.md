@@ -7,5 +7,8 @@ Hemodynamics calculation and oxygenation calculation based on Human colorectal c
 ![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/703296ff-e31f-40d9-9acf-09374b05dae0) ![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/6e865e4a-c22c-448f-b751-bb84579f1622)
 ![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/d88919cf-6d60-483d-a2d1-16097174d32d) ![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/73723f20-1051-4b60-b20c-32bc92a9d400)
 
+FLASH Depletion Example
+![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/65f1f5e7-0427-413e-bc79-86166f009a73)
+![image](https://github.com/PhantomOtter/Vasculature/assets/98802462/727efe32-8d65-45ad-8da2-5b72bfb7ce47)
 
 
